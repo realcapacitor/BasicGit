@@ -41,7 +41,7 @@ git init
 
 Now your clone your remote repo to the local machine by Entering git clone url
 ```bash
-git clone https://github.com/realcapacitor/BasicGit.git
+git clone https://github.com/*YourName*/BasicGit.git
 ```
 
 ![Test Image 8](/Images/cloned.png)
