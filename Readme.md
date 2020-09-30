@@ -24,3 +24,15 @@ Now go your profile and click on the forked repo.
 Then click on the code button you get a cloning url.
 ![Test Image 5](/Images/clone.png)
 
+Now go to your desktop and create a new folder and name it BasicGit(NOT NECESSARY).
+open a terminal tab at that folder. for ex. domain/BasicGit
+
+![Test Image 6](/Images/terminal.png)
+Now declare that folder as a git local repo.
+ Enter 
+```bash
+git init
+``` 
+press Enter.
+![Test Image 7](/Images/gitinit.png)
+
