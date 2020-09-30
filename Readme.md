@@ -15,6 +15,6 @@ If you don't have a github account then just [Sign up](https://github.com/join) 
 After Successsfully creating a github account go to the target [Repo](https://github.com/realcapacitor/LearnGit/) and click on the Fork button which is at the top right corner of the page.
 
 
-![Test Image 4](https://upload.wikimedia.org/wikipedia/commons/3/38/GitHub_Fork_Button.png)
+![Test Image 4](/fork.png)
 
 The fork button creates a copy of targeted repo on your profile so you can work or modify it.
