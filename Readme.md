@@ -22,17 +22,28 @@ The fork button creates a copy of targeted repo on your profile so you can work 
 ## 2.Cloning
 Now go your profile and click on the forked repo.
 Then click on the code button you get a cloning url.
+
 ![Test Image 5](/Images/clone.png)
 
 Now go to your desktop and create a new folder and name it BasicGit(NOT NECESSARY).
 open a terminal tab at that folder. for ex. domain/BasicGit
 
+
 ![Test Image 6](/Images/terminal.png)
+
 Now declare that folder as a git local repo.
- Enter 
+ Enter git init and hit enter
 ```bash
 git init
 ``` 
-press Enter.
+
 ![Test Image 7](/Images/gitinit.png)
 
+Now your clone your remote repo to the local machine by Entering git clone url
+```bash
+git clone https://github.com/realcapacitor/BasicGit.git
+```
+
+![Test Image 8](/Images/cloned.png)
+
+## Congrats!!! Now you have Successfully cloned a repo
