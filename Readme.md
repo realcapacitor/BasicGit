@@ -4,7 +4,7 @@
 ### Installing git involves to parts 1.Installing git on local machine 2.Using Github on remote directory
 ## Installation
 ## 1.Install Git on your machine:
-here you can watch how to install git on [Windows](https://www.youtube.com/watch?v=2j7fD92g-gE) and [Mac](https://www.youtube.com/watch?v=BqspebBGW9k).
+here you can watch how to install git on [Windows](https://www.youtube.com/watch?v=2j7fD92g-gE) and [Mac](https://www.youtube.com/watch?v=RLTCN0A29Ts).
 After complete git installation we have to sign up on Github.
 ## 2.Github Sign up(or sign in in case you have github account)
 If you Already have a github Account then sign in [here](https://github.com/login). 
@@ -17,11 +17,11 @@ After Successsfully creating a github account go to the target [Repo](https://gi
 
 ![Test Image 4](/Images/fork.png)
 
-The fork button creates a copy of targeted repo on your profile so you can work or modify it.
+The fork button creates a copy of targeted repo on your profile so you can work on it or modify it.
 
 ## 2.Cloning
-Now go your profile and click on the forked repo.
-Then click on the code button you get a cloning url.
+Now go to your profile and click on the forked repo.
+Then click on the code button you will get a cloning url copy that url.
 
 ![Test Image 5](/Images/clone.png)
 
@@ -39,7 +39,7 @@ git init
 
 ![Test Image 7](/Images/gitinit.png)
 
-Now your clone your remote repo to the local machine by Entering git clone url
+Now to clone your remote repo to the local machine Enter git clone *url*
 ```bash
 git clone https://github.com/*YourName*/BasicGit.git
 ```
