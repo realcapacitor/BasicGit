@@ -5,8 +5,12 @@
 ## Installation
 ## 1.Install Git on your machine:
 here you can watch how to install git on [Windows](https://www.youtube.com/watch?v=2j7fD92g-gE) and [Mac](https://www.youtube.com/watch?v=RLTCN0A29Ts).
+on Mac you can just run .
+```bash
+$ brew install git
+```
 After complete git installation we have to sign up on Github.
-## 2.Github Sign up(or sign in in case you have github account)
+## 2.Github Sign up(or sign in if you have a github account)
 If you Already have a github Account then sign in [here](https://github.com/login). 
 If you don't have a github account then just [Sign up](https://github.com/join) and create a new account.
 
